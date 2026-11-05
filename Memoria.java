@@ -1,5 +1,5 @@
 public class Memoria{
-    private int[] dados;
+    protected int[] dados;
 
     public Memoria(int tamanho){
         this.dados = new int[tamanho];

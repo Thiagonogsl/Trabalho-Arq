@@ -1,4 +1,4 @@
-public class Mbr{
+public class Registrador{
     private int valor;
 
     public void carregar(int entrada){
