@@ -1,8 +1,8 @@
 public class MIR{
     private int valor;
 
-    public void carregar(int microinstrucao){
-        this.valor = microinstrucao;
+    public void carregar(int microInst){
+        this.valor = microInst;
     }
 
     public int getAMUX(int dado){
